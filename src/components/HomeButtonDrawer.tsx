@@ -19,7 +19,7 @@ export default function HomeButtonDrawer() {
             </li>
             <li className="hover:scale-110 transition">
                 <Link to={"mailto:SionSmallman1@gmail.com"} className="text-white hover:text-white">
-                    <IoMail className="inline mx-2" size={35}  />Contact
+                    <IoMail className="inline mx-2" size={35}  />Email
                 </Link>
             </li>
         </ul>
