@@ -6,7 +6,7 @@ import { IoMail } from "react-icons/io5";
 export default function HomeButtonDrawer() {
   return (
     <div id="link-drawer">
-        <ul className="flex gap-x-16 my-5">
+        <ul className="flex gap-x-16 my-5 text-center">
             <li className="hover:scale-110 transition">
                 <Link to={"https://github.com/SionSmallman"} className="text-white hover:text-white">
                     <FaGithub className="inline mx-2" size={35} /> Github
