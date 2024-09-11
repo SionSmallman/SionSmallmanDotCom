@@ -2,7 +2,7 @@
     "projects": [
         {
             "title": "Save The Set",
-            "imageUrls": ["src/assets/sts/1.png", "src/assets/sts/2.png"],
+            "imageUrls": ["/project-images/sts/1.png", "/project-images/sts/2.png"],
             "url": "https://sts.sionsmallman.com",
             "description": "Save the Set is a website used for easily converting setlists from setlist.fm into Spotify playlists, leveraging the APIs of both platforms to seamlessly customise and create playlists. Built using React and Tailwind for the frontend, with .NET Core used for the API.",
             "github": "https://github.com/SionSmallman/SaveTheSet-API"
@@ -16,7 +16,7 @@
         },
         {
             "title": "Personal Site",
-            "imageUrls": ["src/assets/personal-site/1.png"],
+            "imageUrls": ["/project-images/personal-site/1.png"],
             "url": "",
             "description": "The website you're currently on! Built using React and hosted using Vercel.",
             "github": "https://github.com/SionSmallman"

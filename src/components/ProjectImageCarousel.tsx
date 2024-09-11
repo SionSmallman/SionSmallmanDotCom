@@ -18,7 +18,7 @@ export function ProjectImageCarousel({
       <CarouselContent className="">
         {/* If no images are present, show a placeholder */}
         {projectData.imageUrls.length === 0 ? (
-          <img src={"src/assets/project-default.png"}></img>
+          <img src={"/project-images/project-default.png"}></img>
         ) : (
           projectData.imageUrls.map((imageUrl: string) => {
             return (
