@@ -1,14 +1,10 @@
 import HomeButtonDrawer from "./HomeButtonDrawer";
 import projects from "../projects.json";
-
 import ProjectModal from "./ProjectModal";
 import { IProject } from "./interfaces";
 
-
-
 export default function Hero() {
   
-
   const projectsList = projects.projects
 
     return (
