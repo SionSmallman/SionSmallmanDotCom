@@ -4,24 +4,29 @@
             "title": "Save The Set",
             "imageUrls": ["src/assets/sts/1.png", "src/assets/sts/2.png"],
             "url": "https://sts.sionsmallman.com",
-            "description": "Test description",
-            "github": "https://github.com/SionSmallman"
+            "description": "Save the Set is a website used for easily converting setlists from setlist.fm into Spotify playlists, leveraging the APIs of both platforms to seamlessly customise and create playlists. Built using React and Tailwind for the frontend, with .NET Core used for the API.",
+            "github": "https://github.com/SionSmallman/SaveTheSet-API"
+        },
+        {
+            "title": "CS2 Helper",
+            "imageUrls": [],
+            "url": "",
+            "description": "A Discord bot that provides tools useful for CS2 players in Discord servers. Built using .NET and the Discord.Net API, features include getting patch notes posted the minute they are released and the ability to add suspected cheaters to a watch list and recieve notifications if they are banned",
+            "github": "https://github.com/SionSmallman/CS2-Helper"
         },
         {
             "title": "Personal Site",
-            "imageUrls": [],
-            "url": "https://sionsmallman.com",
-            "description": "Test description",
+            "imageUrls": ["src/assets/personal-site/1.png"],
+            "url": "",
+            "description": "The website you're currently on! Built using React and hosted using Vercel.",
             "github": "https://github.com/SionSmallman"
         },
         {
             "title": "Ynganu",
             "imageUrls": [],
-            "url": "https://sionsmallman.com",
-            "description": "Test description",
-            "github": "https://github.com/SionSmallman"
+            "url": "",
+            "description": "Ynganu is a cross platform mobile app built using React Native that using OCR to scan Welsh text found in the wild and return the pronounciation and tranlsations of said text. Originally built as a prototype for a university project, the repo is currently private, but I have plans to revisit and redesign this and launch it on app stores.",
+            "github": ""
         }
-
     ]
-        
 }
