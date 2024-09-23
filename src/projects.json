@@ -4,14 +4,14 @@
             "title": "Save The Set",
             "imageUrls": ["/project-images/sts/1.png", "/project-images/sts/2.png"],
             "url": "https://sts.sionsmallman.com",
-            "description": "Save the Set is a website used for easily converting setlists from setlist.fm into Spotify playlists, leveraging the APIs of both platforms to seamlessly customise and create playlists. Built using React and Tailwind for the frontend, with .NET Core used for the API.",
+            "description": "Save the Set is a website used for easily converting setlists from setlist.fm into Spotify playlists, leveraging the APIs of both platforms to seamlessly customise and create playlists. Built using React and Tailwind for the frontend, with .NET used for the API.",
             "github": "https://github.com/SionSmallman/SaveTheSet-API"
         },
         {
             "title": "CS2 Helper",
             "imageUrls": [],
             "url": "",
-            "description": "A Discord bot that provides tools useful for CS2 players in Discord servers. Built using .NET and the Discord.Net API, features include getting patch notes posted the minute they are released and the ability to add suspected cheaters to a watch list and recieve notifications if they are banned",
+            "description": "A Discord bot that provides tools useful for CS2 players in Discord servers. Built using .NET and the Discord.Net API, features include getting patch notes posted the minute they are released and the ability to add suspected cheaters to a watch list and receive notifications if they are banned",
             "github": "https://github.com/SionSmallman/CS2-Helper"
         },
         {
